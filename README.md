@@ -11,4 +11,4 @@ A simple page for practicing layout settings in CSS.
 
 # Live version
 
-iocsai.github.io/simple-quote-page/
+https://iocsai.github.io/simple-quote-page/
